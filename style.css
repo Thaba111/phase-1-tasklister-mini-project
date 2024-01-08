@@ -13,6 +13,10 @@ body {
 button {
   font-size: 7px;
 }
+button {
+  font-size: 14px; 
+  margin-left: 10px; 
+}
 
 #main-content {
   position: relative;
